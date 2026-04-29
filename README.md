@@ -1,3 +1,12 @@
+## 📊 Dashboard Gallery
+
+| 1. Full League Overview | 2. Tactical Player Deep-Dive | 3. League Benchmark |
+| :--- | :--- | :--- |
+| ![Main View](dashboard_main.png) | ![Player Analysis](player_deep_dive.png) | ![League View](league_analysis.png) |
+
+> **Note:** The dashboard is fully interactive. Selecting a specific player in the center table or search bar will dynamically update the **Clinicality**, **Expected Assists**, and **Minutes Played** metrics to reflect that individual's performance profile.
+>
+> 
 # Football-Performance-Analytics
 A Power BI scouting dashboard identifying elite finishing and playmaking efficiency across  football leagues using custom Clinicality ($Gls - xG$) and xAG metrics.
 Project Overview
